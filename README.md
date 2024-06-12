@@ -1,4 +1,4 @@
-Laravel 11 
-PHP 8.3
-LiveWire
+Laravel 11 <br>
+PHP 8.3<br>
+LiveWire<br>
 Sail / Docker <br>
