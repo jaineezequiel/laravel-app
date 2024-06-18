@@ -12,4 +12,6 @@ Route::view('profile', 'profile')
     ->middleware(['auth'])
     ->name('profile');
 
+Route::get('/category/create', \App\Livewire\Categories\Create::class)->name('category.create');
+
 require __DIR__.'/auth.php';
